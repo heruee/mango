@@ -3,9 +3,18 @@
 This project contains the source code of the Ecommerce site that is built in the book _Mastering Phoenix Framework_,
 as part of the _Phoenix Inside Out_ series.
 
+## Additional files
+You need some static image files and CSV files to get the same output as described in the book. These files can be downloaded here: 
+
+https://shankardevy.com/phoenix-book/book_files.zip
+
+## Branches and Commits
+
 Code for each chapter are in their respective branches named after the chapter number.
 
 Master branch contains code from all branches merged.
+
+## Setup
 
 Steps to follow to run the code in your local machine:
 
